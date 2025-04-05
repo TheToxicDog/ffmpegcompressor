@@ -1,6 +1,13 @@
 # ffmpegcompressor
 a python script that uses ffmpeg to compress a group of video files to a smaller size. (defualt 10 Mb)
 
+
+REQUIREMENTS: 
+have FFmpeg installed on your pc.
+
+make a folder with the name compressed, and a folder named uncompressed.
+
+
 How to use:
 
 
